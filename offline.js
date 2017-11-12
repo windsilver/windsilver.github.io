@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1510473464,
+	"version": 1510481096,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -24,6 +24,9 @@
 		"images/移動方塊用-sheet0.png",
 		"images/x方塊2-sheet0.png",
 		"images/gameover-sheet0.png",
+		"images/墜落-sheet0.png",
+		"images/開場用方塊-sheet0.png",
+		"images/winner-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
